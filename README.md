@@ -13,8 +13,8 @@ Eu sou o Lucas Alessandri 👨🏻‍💻, sou um Programador júnior Front End,
 - To Do List - Melhorada 📋<br>
   <a href="https://lucas-alessandri.github.io/todo-list-melhorada/">Deploy</a>
 
-- Conversor de Moedas 💵 <br>
- <a href=" https://lucas-alessandri.github.io/conversor-de-moedas/">Deploy</a>
+- Conversor de Moedas 💵<br>
+  <a href="https://lucas-alessandri.github.io/conversor-de-moedas/">Deploy</a>
 ## Contato 📞:
 - <a href="https://api.whatsapp.com/send/?phone=5511916692706&text=Ol%C3%A1+Lucas&type=phone_number&app_absent=0">WhatsApp🟢</a> <br>
 - <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">Gmail📧</a>
