@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Lucas Alessandri 👨🏻‍💻, sou um Programador júnior Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou o Lucas Alessandri 👨🏻‍💻, tenho 14 anos, sou um Programador júnior Front End, estou aprendendo e criando projetos com:
 <br>
 <br>
 
@@ -9,7 +9,18 @@ Eu sou o Lucas Alessandri 👨🏻‍💻, sou um Programador júnior Front End,
 - <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript-logo" width="70px"> <br>
 <br>
 
-## Principais Projetos 🛠️:
+## Formação 🎓:
+Atualmente estou cursando a formação FullStack do DevClub.
+<br>
+<br>
+
+<img src="https://yt3.googleusercontent.com/mc1MPwCGHyMq-ck-2mRB020qAWCtvZNId8tCGsPM9SkFdSCkHYLh5f0G-n04nGhdvXUd7Hj-iw=s900-c-k-c0x00ffffff-no-rj" alt="html-logo" width="100px">
+<br>
+
+
+
+
+## Principais Projetos 🛠️: <br>
 - To Do List - Melhorada 📋<br>
   <a href="https://lucas-alessandri.github.io/todo-list-melhorada/">Deploy</a>
 
