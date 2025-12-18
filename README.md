@@ -37,6 +37,7 @@ Atualmente estou cursando a formação FullStack do DevClub.
 
 ## Conquistas🏆: <br>
 - Na comunidade de <strong>mais 20 mil programadores</strong> do DevClub, fiquei em <strong>primeiro lugar</strong> no Concurso de Projetos da categoria Baby Dev, e assim ganhei um troféu.
+- Certificado de HTML e CSS (Terminando o módulo de JavaScript)
 
   <br>
 ## Contato 📞:
