@@ -29,6 +29,13 @@ Atualmente estou cursando a formação FullStack do DevClub.
 
 - Sorteador 🎲<br>
   <a href="https://lucas-alessandri.github.io/sorteador-melhorado/">Deploy</a>
+
+  <br>
+
+## Conquistas🏆: <br>
+- Na comunidade de <strong>mais 20 mil programadores</strong> do DevClub, fiquei em <strong>primeiro lugar</strong> no Concurso de Projetos da categoria Baby Dev, e assim ganhei um troféu.
+
+  <br>
 ## Contato 📞:
 - <a href="https://api.whatsapp.com/send/?phone=5511916692706&text=Ol%C3%A1+Lucas&type=phone_number&app_absent=0">WhatsApp🟢</a> <br>
 - <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">Gmail📧</a>
