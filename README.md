@@ -27,8 +27,11 @@ Atualmente estou cursando a formação FullStack do DevClub.
 - Conversor de Moedas 💵<br>
   <a href="https://lucas-alessandri.github.io/conversor-de-moedas/">Deploy</a>
 
-- Sorteador 🎲<br>
-  <a href="https://lucas-alessandri.github.io/sorteador-melhorado/">Deploy</a>
+- Clone do Mercado Livre 🛒🟡 <br>
+  <a href="https://lucas-alessandri.github.io/clone-mercado-livre/">Deploy</a>
+
+- Jokenpô ✊🏻<br>
+  <a href="https://lucas-alessandri.github.io/jokenpo/">Deploy</a>
 
   <br>
 
