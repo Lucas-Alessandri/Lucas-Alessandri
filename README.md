@@ -12,6 +12,7 @@ Eu sou o Lucas Alessandri 👨🏻‍💻, tenho 14 anos, sou um Programador jú
 ## Formação 🎓:
 Atualmente estou cursando a formação FullStack do DevClub.
 <br>
+Estando atualmente terminando o módulo de Node.
 <br>
 
 <img src="https://yt3.googleusercontent.com/mc1MPwCGHyMq-ck-2mRB020qAWCtvZNId8tCGsPM9SkFdSCkHYLh5f0G-n04nGhdvXUd7Hj-iw=s900-c-k-c0x00ffffff-no-rj" alt="html-logo" width="100px">
@@ -37,7 +38,7 @@ Atualmente estou cursando a formação FullStack do DevClub.
 
 ## Conquistas🏆: <br>
 - Na comunidade de <strong>mais 20 mil programadores</strong> do DevClub, fiquei em <strong>primeiro lugar</strong> no Concurso de Projetos da categoria Baby Dev, e assim ganhei um troféu.
-- Certificado de HTML e CSS (Terminando o módulo de JavaScript)
+- Certificado de HTML, CSS e JavaScript.
 
   <br>
 ## Contato 📞:
