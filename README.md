@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-Eu sou o Lucas Alessandri 👨🏻‍💻, tenho 14 anos, sou um Programador júnior Front End, estou aprendendo e criando projetos com:
-<br>
-<br>
+Eu sou o Lucas Alessandri, tenho 14 anos e estou trilhando um caminho para ser um Programador FullStack.
 
-- <img src="https://img.icons8.com/color/200/html-5.png" alt="html-logo" width="70px"> <br>
-- <img src="https://img.icons8.com/?size=512&id=21278&format=png" alt="css-logo" width="70px"> <br>
-- <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript-logo" width="70px"> <br>
-<br>
+## Linguagens, frameworks e experiências 👨‍💻🔷🧪:
+ JavaScript|Node JS|React|Styled Componente
+
+- Tive uma experiência de criação de banco de dados com Mongo DB e prisma.
+- Atualmente conectando estou conectando o Front end ao Back end utilizando React e Axios.
 
 ## Formação 🎓:
 Atualmente estou cursando a formação FullStack do DevClub.
@@ -17,7 +16,7 @@ Atualmente estou cursando a formação FullStack do DevClub.
 <img src="https://yt3.googleusercontent.com/mc1MPwCGHyMq-ck-2mRB020qAWCtvZNId8tCGsPM9SkFdSCkHYLh5f0G-n04nGhdvXUd7Hj-iw=s900-c-k-c0x00ffffff-no-rj" alt="html-logo" width="100px">
 <br>
 <br>
-Estando atualmente começando no Backend.
+Estando atualmente no módulo de React.
 
 
 
