@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Eu sou o Lucas Alessandri, tenho 14 anos e estou trilhando um caminho para ser um Programador FullStack.
+Eu sou o Lucas Alessandri, tenho 14 anos e estou trilhando um caminho para ser um Dev FullStack.
 
 ## Linguagens, frameworks e experiências 👨‍💻🔷🧪:
  JavaScript|Node JS|React|Styled Components
 
 - Tive uma experiência de criação de banco de dados com Mongo DB e prisma.
-- Atualmente conectando estou conectando o Front end ao Back end utilizando React e Axios.
+- Atualmente estou conectando o Front end ao Back end utilizando React e Axios.
 
 ## Formação 🎓:
 Atualmente estou cursando a formação FullStack do DevClub.
