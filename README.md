@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Eu sou o Lucas Alessandri, tenho 14 anos e estou trilhando um caminho para ser um Dev FullStack.
+Eu sou o Lucas Alessandri, tenho 14 anos e estou trilhando um caminho para ser um Dev FullStack. Atualmente sou apaixonado pelo Front end, mas sei fazer um CRUD com NodeJS e conectar ao Front end.
 
 ## Linguagens, frameworks e experiências 👨‍💻🔷🧪:
- JavaScript|Node JS|React|Styled Components
+ JavaScript | NodeJS | React | Styled Components
 
 - Tive uma experiência de criação de banco de dados com Mongo DB e prisma.
 - Atualmente estou conectando o Front end ao Back end utilizando React e Axios.
@@ -21,14 +21,15 @@ Estando atualmente no módulo de React.
 
 
 ## Principais Projetos 🛠️: <br>
-- To Do List - Melhorada 📋<br>
-  <a href="https://lucas-alessandri.github.io/todo-list-melhorada/">Deploy</a>
-
-- Conversor de Moedas 💵<br>
-  <a href="https://lucas-alessandri.github.io/conversor-de-moedas/">Deploy</a>
-
 - Clone do Mercado Livre 🛒🟡 <br>
   <a href="https://lucas-alessandri.github.io/clone-mercado-livre/">Deploy</a>
+  
+- Conversor de Moedas 💵<br>
+  <a href="https://lucas-alessandri.github.io/conversor-de-moedas/">Deploy</a>
+  
+- To Do List - Melhorada 📋 (Projeto Vencedor 🏆)<br>
+  <a href="https://lucas-alessandri.github.io/todo-list-melhorada/">Deploy</a>
+
 
 - Jokenpô ✊🏻<br>
   <a href="https://lucas-alessandri.github.io/jokenpo/">Deploy</a>
