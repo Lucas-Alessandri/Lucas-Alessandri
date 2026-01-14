@@ -3,7 +3,7 @@
 Eu sou o Lucas Alessandri, tenho 14 anos e estou trilhando um caminho para ser um Dev FullStack. Atualmente sou apaixonado pelo Front end, mas sei fazer um CRUD com NodeJS e conectar ao Front end.
 
 ## Linguagens, frameworks e experiências 👨‍💻🔷🧪:
- JavaScript | NodeJS | React | Styled Components
+HTML | CSS | JavaScript | NodeJS | React | Styled Components
 
 - Tive uma experiência de criação de banco de dados com Mongo DB e prisma.
 - Atualmente estou conectando o Front end ao Back end utilizando React e Axios.
